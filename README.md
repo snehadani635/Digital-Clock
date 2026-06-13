@@ -2,6 +2,10 @@
 
 A simple and responsive Digital Clock built using HTML, CSS, and JavaScript. The clock displays the current hours, minutes, and seconds in real-time with a modern glassmorphism UI design.
 
+## 📸 Screenshot
+
+![Digital Clock Screenshot](./digital-clock.png)
+
 ## 🚀 Features
 
 - Real-time clock updates every second
